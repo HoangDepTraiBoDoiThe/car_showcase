@@ -3,8 +3,8 @@ import { Hero } from "@/components";
 
 export default function Home() {
   return (
-    <div className="overflow-hidden">
+    <main className="overflow-hidden">
       <Hero></Hero>
-    </div>
+    </main>
   );
 }
